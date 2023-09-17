@@ -1,5 +1,7 @@
 # Rain for Slack
 
+![](./screenshot.png)
+
 ## Install
 
 [Install](./INSTALL.md)
